@@ -1,3 +1,4 @@
+//this is the way to update the things 
 const { connect } = require("./connectDB.js");
 const Todo = require("./todoModel.js");
 
